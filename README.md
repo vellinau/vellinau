@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @vellinau!
 
+24 y/o maths graduate from Poland, making first steps in my professional career. 
+
 - 👀 I’m interested in ...
 
   The "proper" answer would be: mostly maths and answering interesting questions using my Python scripts. But my other hobbies include creating and listening to music, watching football and basketball, or some managament computer games.
