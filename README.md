@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vellinau!
 
-  24 y/o maths graduate from Poland, making first steps in my professional career. 
+  24 y/o maths graduate from Poland, making my first steps in professional career. 
 
 - 👀 I’m interested in ...
 
